@@ -23,7 +23,7 @@ async def on_message(message):
     # Let the command processing continue
     await bot.process_commands(message)
 # Run the bot with its token
-bot.run('MTIwNjI5NTY1MTY2MzYxODA3OQ.Gd17nv.SPMQEhMw5spuHI7_msJrqI3v4xCH69Q-kSBDOc')
+bot.run('token')
 
 
 #!python3 /home/bad-pi/Code/Discord_Bot/main.py
